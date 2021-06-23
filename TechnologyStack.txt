@@ -1,0 +1,11 @@
+selenium
+java
+testNG
+appium
+winappdriver
+git
+maven
+jenkins
+restassured
+cucumber
+azure/aws
