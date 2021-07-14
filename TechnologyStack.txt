@@ -9,3 +9,5 @@ jenkins
 restassured
 cucumber
 azure/aws
+Python
+JavaScript
