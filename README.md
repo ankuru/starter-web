@@ -10,4 +10,4 @@ Sample website with plenty of files for demos
 To learn git
 
 ## Endgame
-To be a git master
+To be a git master and teach others
