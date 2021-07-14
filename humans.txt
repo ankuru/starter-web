@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <ANKUR> -- <SDET> -- <Blackrock>
+    <ANKUR.U> -- <SDET-2> -- <ThoughtWorks>
 
 # THANKS
 
