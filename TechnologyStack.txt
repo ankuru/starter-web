@@ -11,3 +11,6 @@ cucumber
 azure/aws
 Python
 JavaScript
+js
+react
+angular
