@@ -6,3 +6,5 @@ grapes
 jamun
 guava
 Pineapple
+juice
+shakes
