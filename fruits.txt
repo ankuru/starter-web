@@ -8,3 +8,4 @@ guava
 Pineapple
 juice
 shakes
+new fruits
