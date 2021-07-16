@@ -16,3 +16,4 @@ react
 angular
 stash build tool next
 more stash changes
+java 1.2
